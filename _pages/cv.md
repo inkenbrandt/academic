@@ -11,30 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geology, University of Southern Indiana, 2005
+* M.S. in Geology, Utah State University, 2009
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2009 - Present: Senior Geologist
+  * Utah Geological Survey
+  * Duties included: Proposing and executing water studies
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2013 - Present: Adjunct Instructor & Cirriculum Developer
+  * Salt Lake Community College
+  * Duties included: Designing geology classes and teaching introductory geology
 
 Publications
 ======
@@ -56,4 +44,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Webmaster - Utah Geological Association
+* Publications chair - Utah Geological Association

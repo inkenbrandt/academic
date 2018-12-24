@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Paul"
   avatar           : "me.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Helping others with science"
   location         : "Utah"
-  employer         :
+  employer         : "Utah Geological Survey"
   googlescholar    : "https://scholar.google.com/citations?user=4MiLRooAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Paul_Inkenbrandt"
@@ -101,17 +101,17 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "paul-inkenbrandt-0418b711/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-9194-5936"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/2679249/inkenbrandt"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/user/paulinkenbrandt"
   wikipedia        :
 
 

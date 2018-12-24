@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Paul Inkenbrandt"
 title_separator          : "-"
-name                     : &name "Paul"
+name                     : &name "Paul Inkenbrandt"
 description              : &description "Geologist"
 url                      : "https://inkenbrandt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/academic" # the subpath of your site, e.g. "/blog"
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Denver # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

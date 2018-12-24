@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Paul Inkenbrandt"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Paul"
+description              : &description "Geologist"
 url                      : https://inkenbrandt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academic"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/paul-inkenbrandt-0418b711/"
+  linkedin         : "paul-inkenbrandt-0418b711/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
